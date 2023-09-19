@@ -30,3 +30,12 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
+
+## url done
+
+http://localhost:3030/ <br>
+http://localhost:3030/authentication/sign-in
+http://localhost:3030/authentication/profile-lock
+http://localhost:3030/authentication/reset-password
+http://localhost:3030/authentication/sign-up
+http://localhost:3030/authentication/forgot-password
