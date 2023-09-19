@@ -1,5 +1,5 @@
 
-## 🚀 Project Structure
+## 🚀 Estructura del projecte
 
 Inside of your Astro project, you'll see the following folders and files:
 
@@ -17,7 +17,7 @@ Inside of your Astro project, you'll see the following folders and files:
 └── package.json
 ```
 
-## 🧞 Commands
+## 🧞 Comandaments
 
 All commands are run from the root of the project, from a terminal:
 
