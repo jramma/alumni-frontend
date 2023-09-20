@@ -39,3 +39,9 @@ http://localhost:3030/authentication/profile-lock
 http://localhost:3030/authentication/reset-password
 http://localhost:3030/authentication/sign-up
 http://localhost:3030/authentication/forgot-password
+http://localhost:3030/pages/404<br>
+http://localhost:3030/pages/maintenance<br>
+http://localhost:3030/pages/500<br>
+http://localhost:3030/alumne<br>
+http://localhost:3030/profesor<br>
+http://localhost:3030/settings<br>
