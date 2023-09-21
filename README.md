@@ -45,3 +45,11 @@ http://localhost:3030/pages/500<br>
 http://localhost:3030/alumne<br>
 http://localhost:3030/profesor<br>
 http://localhost:3030/settings<br>
+
+
+
+SIMPLIFICA
+	-menú pa tontos
+
+
+	
